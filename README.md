@@ -1,5 +1,4 @@
 # codesandbox-demo
 
 Used for CodeSandbox demo, duh
-
-Some new changes There!
+Used for CodeSandbox demo, duh
